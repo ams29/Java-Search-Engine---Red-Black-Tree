@@ -1,0 +1,10 @@
+extends Indicates that a class is derived from another class or interface
+char A data type that can hold unsigned 16-bit Unicode characters
+import References other classes
+abstract Specifies that a class or method will be implemented later, in a subclass
+do Starts a do-while loop
+if Tests a true/false expression and branches accordingly
+long A data type that holds a 64-bit integer
+short A data type that can hold a 16-bit integer
+new Creates new objects
+package Declares a Java package
